@@ -1,6 +1,11 @@
 LockedMe.com
 
-General Info
+General Info:
+  - Application developed on Java
 
-Using the application
+User manual for the application:
+    - 
 
+Technologies - 
+
+Setup - 
