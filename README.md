@@ -18,6 +18,6 @@ User manual for the application:
       3. Searching for specific file
       4. Return to main menu
 
-Technologies - 
-
-Setup - 
+Technologies
+  - Java 15
+  - Eclipse IDE
