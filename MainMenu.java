@@ -129,6 +129,7 @@ public class MainMenu {
         	   		break;    
            			
            default: System.out.println("Ouch!! Please select one of the listed options!");
+           obj.main(args);
            }
         }catch(Exception e) {
      	   System.out.println("Wrong choice! Please choose one of the options");
